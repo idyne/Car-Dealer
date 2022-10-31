@@ -37,7 +37,7 @@ public class Road : MonoBehaviour
         SetSplinePoints(numberOfPoints);
         spawnMesh.RebuildImmediate();
         endMesh.RebuildImmediate();
-        print(SplineComputer.CalculateLength());
+        //print(SplineComputer.CalculateLength());
     }
 
     private void SetSplinePoints(int numberOfPoints)
