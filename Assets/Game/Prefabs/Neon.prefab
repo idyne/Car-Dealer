@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &527424458118808869
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8465646836054633233}
+  - component: {fileID: 6877192106338914307}
+  - component: {fileID: 3254139344789991940}
+  m_Layer: 6
+  m_Name: Neon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8465646836054633233
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527424458118808869}
+  m_LocalRotation: {x: 0.7071068, y: 0.70710677, z: -0.0000001192093, w: 0.000000028696027}
+  m_LocalPosition: {x: -0.0059851925, y: -1.7359064, z: -0.21025872}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 90, y: 180, z: 90}
+--- !u!119 &6877192106338914307
+Projector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527424458118808869}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_NearClipPlane: 0.1
+  m_FarClipPlane: 5
+  m_FieldOfView: 60
+  m_AspectRatio: 1.42
+  m_Orthographic: 1
+  m_OrthographicSize: 1.67
+  m_Material: {fileID: 0}
+  m_IgnoreLayers:
+    serializedVersion: 2
+    m_Bits: 448
+--- !u!114 &3254139344789991940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 527424458118808869}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4739bdff146b28447be9cf2c144b3891, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  projector: {fileID: 6877192106338914307}
+  shader: {fileID: 4800000, guid: d63c99d40e6b0f34293ac3b4f8d7bf1d, type: 3}
+  texture: {fileID: 2800000, guid: 382a61820b72af14ca8049be546a5c85, type: 3}
+  NeonMat: {fileID: 0}
+  color: {r: 0, g: 0, b: 0, a: 0}

@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: eb272277afd89f549a37df191416b1a0
+timeCreated: 1517663225
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: FrontBumper2
+    100002: Frontumper1
+    100004: //RootNode
+    100006: Hood1
+    100008: Hood2
+    100010: RearBumper1
+    100012: RearBumper2
+    100014: Roof2
+    100016: SideSkirt1
+    100018: SideSkirt2
+    100020: Spoiler1
+    100022: Spoiler2
+    100024: Wheel1FL
+    100026: Wheel1FR
+    100028: Wheel1RL
+    100030: Wheel1RR
+    100032: Wheel2FL
+    100034: Wheel2FR
+    100036: Wheel2RL
+    100038: Wheel2RR
+    400000: FrontBumper2
+    400002: Frontumper1
+    400004: //RootNode
+    400006: Hood1
+    400008: Hood2
+    400010: RearBumper1
+    400012: RearBumper2
+    400014: Roof2
+    400016: SideSkirt1
+    400018: SideSkirt2
+    400020: Spoiler1
+    400022: Spoiler2
+    400024: Wheel1FL
+    400026: Wheel1FR
+    400028: Wheel1RL
+    400030: Wheel1RR
+    400032: Wheel2FL
+    400034: Wheel2FR
+    400036: Wheel2RL
+    400038: Wheel2RR
+    2300000: FrontBumper2
+    2300002: Frontumper1
+    2300004: //RootNode
+    2300006: Hood1
+    2300008: Hood2
+    2300010: RearBumper1
+    2300012: RearBumper2
+    2300014: Roof2
+    2300016: SideSkirt1
+    2300018: SideSkirt2
+    2300020: Spoiler1
+    2300022: Spoiler2
+    2300024: Wheel1FL
+    2300026: Wheel1FR
+    2300028: Wheel1RL
+    2300030: Wheel1RR
+    2300032: Wheel2FL
+    2300034: Wheel2FR
+    2300036: Wheel2RL
+    2300038: Wheel2RR
+    3300000: FrontBumper2
+    3300002: Frontumper1
+    3300004: //RootNode
+    3300006: Hood1
+    3300008: Hood2
+    3300010: RearBumper1
+    3300012: RearBumper2
+    3300014: Roof2
+    3300016: SideSkirt1
+    3300018: SideSkirt2
+    3300020: Spoiler1
+    3300022: Spoiler2
+    3300024: Wheel1FL
+    3300026: Wheel1FR
+    3300028: Wheel1RL
+    3300030: Wheel1RR
+    3300032: Wheel2FL
+    3300034: Wheel2FR
+    3300036: Wheel2RL
+    3300038: Wheel2RR
+    4300000: SportCar
+    4300002: Wheel1RL
+    4300004: Wheel2RL
+    4300006: Wheel2FL
+    4300008: Wheel1FL
+    4300010: Wheel1RR
+    4300012: Wheel2RR
+    4300014: Wheel2FR
+    4300016: SideSkirt2
+    4300018: RearBumper2
+    4300020: Hood2
+    4300022: FrontBumper2
+    4300024: Roof2
+    4300026: Spoiler2
+    4300028: Spoiler1
+    4300030: RearBumper1
+    4300032: Frontumper1
+    4300034: SideSkirt1
+    4300036: Hood1
+    4300038: Wheel1FR
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
